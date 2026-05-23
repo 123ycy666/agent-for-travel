@@ -1,0 +1,4 @@
+requests
+openai
+# tavily 库如果需要使用 get_attraction 工具时才安装
+# tavily
